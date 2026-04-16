@@ -2,59 +2,58 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--           🌹 ROSE GOLD CINEMATIC HEADER 🌹                -->
+<!--              💜 LAVENDER DREAM HEADER 💜                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fff5f0,20:fde2dc,40:f5b7a8,60:e8927c,80:c97064,100:a14848&height=320&section=header&text=Rukhsar%20Jabeen&fontSize=68&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=%F0%9F%8C%B9%20Full%20Stack%20Developer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Goddess%20%F0%9F%8C%B9&descAlignY=58&descSize=16&descFontColor=fff5f0&animation=fadeIn&stroke=ffffff&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f0ff,20:e6e6fa,40:d8bfd8,60:c8a2c8,80:98d8aa,100:b0e0b0&height=320&section=header&text=Rukhsar%20Jabeen&fontSize=68&fontColor=5d4a7a&fontAlignY=38&fontAlign=50&desc=%F0%9F%8C%B8%20Full%20Stack%20Developer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Dreamer%20%F0%9F%8C%B8&descAlignY=58&descSize=16&descFontColor=7a6a8a&animation=fadeIn&stroke=9f86c0&strokeWidth=2" />
 
 <br/>
 
-<!-- 🌹 ROSE GOLD BADGE ROW -->
-<img src="https://komarev.com/ghpvc/?username=Hxni786&style=for-the-badge&color=e8927c&label=%E2%9C%A7+PROFILE+VIEWS&labelColor=7c2d3e" />
+<!-- 💜 SAGE & LAVENDER BADGE ROW -->
+<img src="https://komarev.com/ghpvc/?username=Hxni786&style=for-the-badge&color=d8bfd8&label=%E2%9C%A7+PROFILE+VIEWS&labelColor=7a6a8a" />
 &nbsp;
-<img src="https://img.shields.io/badge/%E2%9C%A8_STATUS-Open%20to%20Work-f5b7a8?style=for-the-badge&labelColor=7c2d3e&logo=sparkfun&logoColor=white" />
+<img src="https://img.shields.io/badge/%E2%9C%A8_STATUS-Open%20to%20Work-e6e6fa?style=for-the-badge&labelColor=7a6a8a&logo=sparkles&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%8C%B9_BASED-Pakistan-fde2dc?style=for-the-badge&labelColor=a14848" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%B8_BASED-Pakistan-c8a2c8?style=for-the-badge&labelColor=5d4a7a" />
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%A5%82_VIBE-Champagne%20%26%20Code-c97064?style=for-the-badge&labelColor=7c2d3e" />
+<img src="https://img.shields.io/badge/%F0%9F%92%96_VIBE-Code%20%26%20Chai-98d8aa?style=for-the-badge&labelColor=5d4a7a" />
 
 <br/><br/>
 
 <!-- 💫 DREAMY TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=24&duration=3000&pause=1000&color=E8927C&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Hi+there+%F0%9F%8C%B9+I'm+Rukhsar+Jabeen;Welcome+to+my+rose+gold+studio+%E2%9C%A8;Building+luxe+full-stack+experiences+%F0%9F%92%8B;Crafting+golden+3D+magic+with+Three.js+%F0%9F%8C%9F;Code+like+a+queen%2C+ship+like+a+legend+%F0%9F%91%91" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=24&duration=3000&pause=1000&color=9F86C0&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Hi+there+%F0%9F%8C%B8+I'm+Rukhsar+Jabeen;Welcome+to+my+little+corner+of+code+%E2%9C%A8;Building+pretty+%26+powerful+full-stack+apps+%F0%9F%92%95;Crafting+dreamy+3D+experiences+with+Three.js+%F0%9F%92%AB;Code+with+heart%2C+ship+with+soul+%F0%9F%8C%B7;Turning+chai+into+code+since+forever+%E2%98%95" alt="Typing SVG" />
 
 <br/>
 
-<!-- 🌹 GOLDEN DIVIDER -->
+<!-- 🌸 FLORAL DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    🌷 ABOUT ME 🌷                         -->
+<!--                    💜 ABOUT ME 💜                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- 🐱 CAT WITH LAPTOP GIF -->
-<img align="right" alt="Cat Typing on Laptop" width="360" src="https://media1.tenor.com/m/4nXtuQiFpBAAAAAC/cat-typing.gif" />
+<img align="right" alt="Cute Cat with Laptop" width="360" src="https://media1.tenor.com/m/4nXtuQiFpBAAAAAC/cat-typing.gif" />
 
-### 🌹 &nbsp; About This Rose Gold Coder
+### 🌿 &nbsp; About the Girl Behind the Keyboard
 
 ```typescript
-const rukhsar: GoldenDeveloper = {
-  name        : "Rukhsar Jabeen 🌹",
-  title       : "Full Stack Developer 👑",
-  location    : "🌍 Pakistan — coding in golden hour",
-  pronouns    : "she/her ✨",
+const rukhsar: DreamyDeveloper = {
+  name        : "Rukhsar Jabeen 🌸",
+  title       : "Full Stack Developer ✨",
+  location    : "🌍 Pakistan — coding under starlight",
+  pronouns    : "she/her 💜",
   stack       : {
-    frontend  : ["React 🌹", "React Native", "Three.js ✨", "Tailwind"],
+    frontend  : ["React 💖", "React Native", "Three.js ✨", "Tailwind 🌿"],
     backend   : ["Node.js", "Express.js", "REST APIs"],
     database  : ["MySQL 💎"],
     tools     : ["Git", "GitHub", "VSCode", "Postman", "Figma 🎨"],
   },
-  currentMood : "Building luxe digital experiences with grace",
+  currentMood : "Building beautiful things that work beautifully",
   openTo      : ["Freelance ☕", "Full-time 💼", "Collaboration 💫"],
-  philosophy  : "Elegance is the only beauty that never fades — even in code 🌹",
-  funFact     : "My setup has fairy lights, a velvet mousepad & a cat 🐱💫",
+  philosophy  : "Code should be elegant, like poetry in motion 🌷",
+  funFact     : "I name my variables like fairytale characters 🧚",
 };
 ```
 
@@ -68,7 +67,7 @@ const rukhsar: GoldenDeveloper = {
 
 <div align="center">
 
-### 🌹 &nbsp; Rukhsar's Golden Toolkit 🌹
+### 🌸 &nbsp; Rukhsar's Magical Tech Toolkit 🌸
 
 <br/>
 
@@ -78,14 +77,14 @@ const rukhsar: GoldenDeveloper = {
 
 **✨ Frontend & 3D Magic**
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,threejs&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,threejs&theme=light&perline=7" />
 
 </td>
 <td align="center" width="50%">
 
-**👑 Backend & Data**
+**🌿 Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&theme=light&perline=7" />
 
 </td>
 </tr>
@@ -94,15 +93,15 @@ const rukhsar: GoldenDeveloper = {
 
 **📱 Mobile Dreams**
 
-<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark&perline=7" />
-<br/><sub><sup>🌹 React Native 🌹</sup></sub>
+<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=light&perline=7" />
+<br/><sub><sup>💜 React Native 💜</sup></sub>
 
 </td>
 <td align="center">
 
-**🥂 Tools & DevOps**
+**🎀 Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,netlify,vercel,figma&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,netlify,vercel,figma&theme=light&perline=8" />
 
 </td>
 </tr>
@@ -113,15 +112,15 @@ const rukhsar: GoldenDeveloper = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--               🌷 CURRENTLY UP TO 🌷                       -->
+<!--               🌿 CURRENTLY UP TO 🌿                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### 💫 &nbsp; What Rukhsar's Currently Up To
 
 <table>
 <tr>
-<td>🌹 <b>Currently Building</b></td>
-<td>Luxe + powerful full-stack apps with React & Node.js</td>
+<td>🌸 <b>Currently Building</b></td>
+<td>Pretty + powerful full-stack apps with React & Node.js</td>
 </tr>
 <tr>
 <td>🌱 <b>Currently Learning</b></td>
@@ -133,22 +132,18 @@ const rukhsar: GoldenDeveloper = {
 </tr>
 <tr>
 <td>☕ <b>Daily Fuel</b></td>
-<td>Karak chai, lo-fi beats & pure determination</td>
-</tr>
-<tr>
-<td>🐱 <b>Coding Buddy</b></td>
-<td>My cat — the official QA tester (he sits on the keyboard) 🐾</td>
+<td>Chai, lo-fi beats & a sprinkle of determination</td>
 </tr>
 <tr>
 <td>💖 <b>Fun Fact</b></td>
-<td>I color-code my Notion like a Pinterest mood board 🎨</td>
+<td>I color-code my Notion like a Pinterest board 🎨</td>
 </tr>
 </table>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--               💎 GITHUB STATISTICS 💎                     -->
+<!--               💜 GITHUB STATISTICS 💜                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -157,17 +152,17 @@ const rukhsar: GoldenDeveloper = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hxni786&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&bg_color=2d1418&title_color=e8927c&icon_color=f5b7a8&text_color=fde2dc&border_radius=18&ring_color=e8927c&include_all_commits=true" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hxni786&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=2d1b2e&title_color=d8bfd8&icon_color=98d8aa&text_color=f5f0ff&border_radius=18&ring_color=c8a2c8&include_all_commits=true" height="175" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxni786&layout=compact&theme=highcontrast&hide_border=true&bg_color=2d1418&title_color=e8927c&text_color=fde2dc&border_radius=18&langs_count=8&card_width=320" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxni786&layout=compact&theme=synthwave&hide_border=true&bg_color=2d1b2e&title_color=d8bfd8&text_color=f5f0ff&border_radius=18&langs_count=8&card_width=320" height="175" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Hxni786&theme=highcontrast&hide_border=true&background=2d1418&ring=E8927C&fire=F5B7A8&currStreakLabel=E8927C&sideLabels=FDE2DC&dates=FFF5F0&border_radius=18&card_width=700" />
+<img src="https://streak-stats.demolab.com?user=Hxni786&theme=synthwave&hide_border=true&background=2d1b2e&ring=D8BFD8&fire=C8A2C8&currStreakLabel=D8BFD8&sideLabels=F5F0FF&dates=98D8AA&border_radius=18&card_width=700" />
 
 <br/><br/>
 
-<!-- 👑 TROPHY CASE -->
+<!-- 💜 TROPHY CASE -->
 <img src="https://github-profile-trophy.vercel.app/?username=Hxni786&theme=flat&no-frame=true&row=1&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 
 </div>
@@ -175,23 +170,23 @@ const rukhsar: GoldenDeveloper = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--               🌹 CONTRIBUTION GRAPH 🌹                    -->
+<!--               🌸 CONTRIBUTION GRAPH 🌸                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 📈 &nbsp; My Golden Coding Journey
+### 📈 &nbsp; My Coding Journey
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=2d1418&color=e8927c&line=f5b7a8&point=fff5f0&area=true&area_color=e8927c50&hide_border=true&radius=12&custom_title=%F0%9F%8C%B9%20Rukhsar%27s%20Golden%20Coding%20Journey%20%E2%80%94%20Sprinkling%20Magic%20Daily%20%F0%9F%8C%B9" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=2d1b2e&color=d8bfd8&line=98d8aa&point=f5f0ff&area=true&area_color=d8bfd850&hide_border=true&radius=12&custom_title=%F0%9F%8C%B8%20Rukhsar%27s%20Coding%20Journey%20%E2%80%94%20Sprinkling%20Magic%20Daily%20%F0%9F%8C%B8" width="100%" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--             💕 SNAKE ANIMATION 💕                         -->
+<!--             💜 SNAKE ANIMATION 💜                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -225,46 +220,46 @@ const rukhsar: GoldenDeveloper = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  🌹 CONNECT 🌹                            -->
+<!--                  🌿 CONNECT 🌿                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 💖 &nbsp; Let's Create Something Golden Together
+### 💖 &nbsp; Let's Create Magic Together
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rukhsar-jabeen" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-e8927c?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7c2d3e" />
+<a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-d8bfd8?style=for-the-badge&logo=linkedin&logoColor=5d4a7a&labelColor=f5f0ff" />
 </a>
 &nbsp;
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send%20Sweet%20Mail-f5b7a8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=a14848" />
+<a href="mailto:msgoat550@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send%20Sweet%20Mail-c8a2c8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7a6a8a" />
 </a>
 &nbsp;
 <a href="https://github.com/Hxni786" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-fde2dc?style=for-the-badge&logo=github&logoColor=7c2d3e&labelColor=e8927c" />
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-f5f0ff?style=for-the-badge&logo=github&logoColor=5d4a7a&labelColor=d8bfd8" />
 </a>
 &nbsp;
-<a href="https://your-portfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Garden%20%F0%9F%8C%B9-c97064?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7c2d3e" />
+<a href="https://mypf786.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Garden%20%F0%9F%8C%B8-98d8aa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=5d4a7a" />
 </a>
 
 <br/><br/>
 
-<!-- 💕 QR + FOOTER -->
+<!-- 💜 QR + FOOTER -->
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td align="center" valign="middle" width="180">
 
-**🌹 Scan to Visit 🌹**
+**🌸 Scan to Visit 🌸**
 
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://your-portfolio.netlify.app/&color=e8927c&bgcolor=2d1418&margin=8" alt="Portfolio QR Code" width="140" />
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://mypf786.netlify.app/&color=9f86c0&bgcolor=f5f0ff&margin=8" alt="Portfolio QR Code" width="140" />
 
 </td>
 <td align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=22&duration=4000&pause=1500&color=E8927C&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=60&lines=Thanks+for+visiting+my+golden+world!+%F0%9F%8C%B9;Let's+connect+and+create+something+luxurious;Every+great+project+starts+with+a+hello+%E2%9C%A8;%E2%80%94+with+love%2C+Rukhsar+%F0%9F%91%91" alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=22&duration=4000&pause=1500&color=9F86C0&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=60&lines=Thanks+for+visiting+my+little+world!+%F0%9F%92%95;Let's+connect+and+create+something+magical;Every+great+project+starts+with+a+hello+%E2%9C%A8;%E2%80%94+with+love%2C+Rukhsar+%F0%9F%8C%B8" alt="Footer typing" />
 
 </td>
 </tr>
@@ -274,50 +269,59 @@ const rukhsar: GoldenDeveloper = {
 
 ---
 
-<!-- 🌹 FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a14848,20:c97064,40:e8927c,60:f5b7a8,80:fde2dc,100:fff5f0&height=180&section=footer&text=%22Code%20like%20a%20queen%2C%20ship%20like%20a%20legend%20%F0%9F%91%91%22&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn&reversal=false&stroke=ffffff&strokeWidth=1" />
+<!-- 💜 FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b0e0b0,20:98d8aa,40:c8a2c8,60:d8bfd8,80:e6e6fa,100:f5f0ff&height=180&section=footer&text=%22Code%20with%20heart%2C%20ship%20with%20soul%20%F0%9F%92%96%22&fontSize=18&fontColor=5d4a7a&fontAlignY=65&animation=fadeIn&reversal=false&stroke=9f86c0&strokeWidth=1" />
 
-<sub>🌹 Crafted with love, chai & a sprinkle of pixie dust by <b>Rukhsar Jabeen</b> 🌹</sub>
+<sub>🌸 Crafted with love, chai & a sprinkle of pixie dust by <b>Rukhsar Jabeen</b> 🌸</sub>
 
 </div>
 ```
 
 ---
 
-## ✅ Before You Publish — Quick Checklist
+## 🎨 Color Palette Used
 
-Replace these placeholders with **YOUR actual info**:
-
-| Placeholder | Where It Appears | Replace With |
-|---|---|---|
-| `Hxni786` | Stats, graphs, GitHub link | **Your GitHub username** |
-| `linkedin.com/in/rukhsar-jabeen` | LinkedIn button | **Your LinkedIn URL** |
-| `your-email@gmail.com` | Gmail button | **Your email** |
-| `your-portfolio.netlify.app` | Portfolio button + QR code | **Your portfolio URL** |
-
-💡 **Pro Tip:** Use `Ctrl+H` (Find & Replace) in your editor to swap them all at once!
-
----
-
-## 🎀 What Makes This README Special
-
-✨ **Rose Gold gradient** that shifts beautifully across the header & footer  
-🐱 **The cute typing cat** as your right-side mascot  
-👑 **Custom typography** — Pacifico for headers, Dancing Script for footer  
-💎 **Coordinated stats theme** (highcontrast bg + rose gold accents)  
-🌹 **Personal touches** — pronouns, daily fuel, coding buddy (your cat!)  
-📱 **QR code** in matching rose gold colors  
-🐍 **Snake animation** of your contributions  
-🏆 **Trophy case** showcasing achievements  
+| Color | Hex | Usage |
+|-------|-----|-------|
+| **Lavender** | `#E6E6FA` | Primary pastel |
+| **Sage Green** | `#98D8AA` | Accents, badges |
+| **Cream** | `#F5F0FF` | Backgrounds |
+| **Dusty Purple** | `#9F86C0` | Typing text, borders |
+| **Muted Lavender** | `#D8BFD8` | Stats highlights |
+| **Soft Plum** | `#C8A2C8` | Secondary accents |
+| **Mint Sage** | `#B0E0B0` | Footer gradient |
 
 ---
 
-## 💌 One Last Thing, Rukhsar
+## 🐱 Your Chosen GIF
 
-Once you publish this, let me know if you'd like me to add:
-- 🎵 **Spotify "now playing"** widget
-- 📚 **Currently reading** book section  
-- 🌟 **Featured projects** showcase cards
-- 🌙 An **Islamic greeting** like "Assalamu Alaikum 🌙" at the top
+Perfect choice! The **cat with laptop gif** is adorable and fits the coding aesthetic perfectly. It shows:
+- A cute gray cat 🐱
+- Typing on a laptop 💻
+- With a focused expression 😼
+- Perfect for a developer's profile!
 
-You're going to have **the prettiest GitHub profile** in the dev world! 🌹👑✨
+---
+
+## 💌 Quick Customization Checklist
+
+Before publishing, remember to update:
+
+1. **GitHub username** `Hxni786` → Your actual username
+2. **LinkedIn URL** → Your profile
+3. **Email** → Your email
+4. **Portfolio URL** → Your website
+5. **QR code data** → Your portfolio link
+
+---
+
+## ✨ Want More Variations?
+
+I can also create:
+
+- **🌹 Rose Gold Edition** (champagne + blush + gold accents)
+- **🌙 Night Sky Edition** (deep purple + stars + moon)
+- **🍵 Matcha Latte Edition** (sage + cream + brown accents)
+- **🌸 Sakura Blossom Edition** (pink + white + cherry blossoms)
+
+Just say the word, Rukhsar! Your aesthetic README should be as unique as you are. 💜🌿

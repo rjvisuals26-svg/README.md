@@ -52,7 +52,7 @@ type Developer = {
 };
 
 const hassan: Developer = {
-  name        : "Syed Hassan Dildar",
+  name        : "Rukhsar Jabeen",
   title       : "Full Stack Developer",
   location    : "Pakistan — building for the world",
   stack       : {

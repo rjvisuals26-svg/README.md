@@ -38,8 +38,6 @@
     </td>
   </tr>
 </table>
-
-```typescript
 const rukhsar = {
   stack: ["React 💖", "Three.js ✨", "Node.js 🌿", "MySQL 💎"],
   passion: "Blending 3D aesthetics with high-performance code",

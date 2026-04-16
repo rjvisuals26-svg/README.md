@@ -1,41 +1,58 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 GIRLY / SOFT AESTHETIC HEADER              -->
+<!--              💖 CINEMATIC HEADER 💖                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1dc,35:ffc2e0,70:e0c3ff,100:c7d2fe&height=300&section=header&text=Rukhsar%20Jabeen&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Creative%20UI%20Builder&descAlignY=60&descSize=17&descFontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,20:f8bbd0,40:f48fb1,60:ce93d8,80:b39ddb,100:9fa8da&height=320&section=header&text=Rukhsar%20Jabeen&fontSize=68&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=%E2%9C%A8%20Full%20Stack%20Developer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Dreamer%20%E2%9C%A8&descAlignY=58&descSize=16&descFontColor=fff0f5&animation=fadeIn&stroke=ffffff&strokeWidth=2" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=ff77b7&label=PROFILE+VIEWS&labelColor=2b1b2a" />
+<!-- 💕 PASTEL BADGE ROW -->
+<img src="https://komarev.com/ghpvc/?username=Hxni786&style=for-the-badge&color=f48fb1&label=%E2%9C%A7+PROFILE+VIEWS&labelColor=ad1457" />
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-ff77b7?style=for-the-badge&labelColor=2b1b2a&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/%E2%9C%A8_STATUS-Open%20to%20Work-f8bbd0?style=for-the-badge&labelColor=ad1457&logo=sparkfun&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/BASED-Pakistan-ffffff?style=for-the-badge&labelColor=2b1b2a" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%B8_BASED-Pakistan-ce93d8?style=for-the-badge&labelColor=6a1b9a" />
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%92%96_VIBE-Code%20%26%20Chai-f48fb1?style=for-the-badge&labelColor=ad1457" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=FF77B7&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=52&lines=Hi%2C+I%27m+Rukhsar+Jabeen;I+build+clean%2C+modern+web+apps;React+%7C+Node.js+%7C+REST+APIs;Polished+UI+with+pixel-perfect+detail" alt="Typing SVG" />
+<!-- 💫 DREAMY TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=24&duration=3000&pause=1000&color=F48FB1&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Hi+there+%F0%9F%8C%B8+I'm+Rukhsar+Jabeen;Welcome+to+my+little+corner+of+code+%E2%9C%A8;Building+pretty+%26+powerful+full-stack+apps+%F0%9F%92%95;Crafting+dreamy+3D+experiences+with+Three.js+%F0%9F%92%AB;Code+with+heart%2C+ship+with+soul+%F0%9F%8C%B7;Turning+chai+into+code+since+forever+%E2%98%95" alt="Typing SVG" />
 
 <br/>
 
----
+<!-- 🌸 FLORAL DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
 </div>
 
-<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    💕 ABOUT ME 💕                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### ✨ About Me
+<img align="right" alt="Coding Aesthetic" width="360" src="https://i.pinimg.com/originals/aa/77/8d/aa778dc683e6cb0a1eebe9d480ce6624.gif" />
+
+### 🌷 &nbsp; About the Girl Behind the Keyboard
 
 ```typescript
-const rukhsar = {
-  name: "Rukhsar Jabeen",
-  title: "Full Stack Developer",
-  location: "Pakistan — building for the world",
-  currentFocus: "Scalable apps + beautiful UI",
-  openTo: ["Freelance", "Full-time", "Collaboration"],
-  philosophy: "Keep it simple. Keep it solid.",
+const rukhsar: DreamyDeveloper = {
+  name        : "Rukhsar Jabeen 🌸",
+  title       : "Full Stack Developer ✨",
+  location    : "🌍 Pakistan — coding under starlight",
+  pronouns    : "she/her 💕",
+  stack       : {
+    frontend  : ["React 💖", "React Native", "Three.js ✨", "Tailwind 🌸"],
+    backend   : ["Node.js", "Express.js", "REST APIs"],
+    database  : ["MySQL 💎"],
+    tools     : ["Git", "GitHub", "VSCode", "Postman", "Figma 🎨"],
+  },
+  currentMood : "Building beautiful things that work beautifully",
+  openTo      : ["Freelance ☕", "Full-time 💼", "Collaboration 💫"],
+  philosophy  : "Code should be elegant, like poetry in motion 🌷",
+  funFact     : "I name my variables like fairytale characters 🧚",
 };
 ```
 
@@ -43,53 +60,261 @@ const rukhsar = {
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  💎 TECH ARSENAL 💎                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 🧁 Tech Stack
+### 🌸 &nbsp; Rukhsar's Magical Tech Toolkit 🌸
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mysql,git,github,vscode&theme=light&perline=6" />
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**✨ Frontend & 3D Magic**
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,threejs&theme=light&perline=7" />
+
+</td>
+<td align="center" width="50%">
+
+**🍓 Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&theme=light&perline=7" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**📱 Mobile Dreams**
+
+<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=light&perline=7" />
+<br/><sub><sup>💕 React Native 💕</sup></sub>
+
+</td>
+<td align="center">
+
+**🎀 Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,netlify,vercel,figma&theme=light&perline=8" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               🌷 CURRENTLY UP TO 🌷                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### 💫 &nbsp; What Rukhsar's Currently Up To
+
+<table>
+<tr>
+<td>🌸 <b>Currently Building</b></td>
+<td>Pretty + powerful full-stack apps with React & Node.js</td>
+</tr>
+<tr>
+<td>🌱 <b>Currently Learning</b></td>
+<td>Advanced Three.js shaders, WebGL magic, TypeScript spells</td>
+</tr>
+<tr>
+<td>💬 <b>Ask Me About</b></td>
+<td>React architecture, REST API design, dreamy 3D web experiences</td>
+</tr>
+<tr>
+<td>☕ <b>Daily Fuel</b></td>
+<td>Chai, lo-fi beats & a sprinkle of determination</td>
+</tr>
+<tr>
+<td>💖 <b>Fun Fact</b></td>
+<td>I color-code my Notion like a Pinterest board 🎨</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               💕 GITHUB STATISTICS 💕                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 &nbsp; Rukhsar's GitHub Story 📖
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FF77B7&icon_color=FF77B7&text_color=5b5560&border_radius=18" height="175" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hxni786&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&bg_color=2d1b2e&title_color=f48fb1&icon_color=f48fb1&text_color=fce4ec&border_radius=18&ring_color=ce93d8&include_all_commits=true" height="175" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FF77B7&text_color=5b5560&border_radius=18&langs_count=8&card_width=320" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxni786&layout=compact&theme=rose_pine&hide_border=true&bg_color=2d1b2e&title_color=f48fb1&text_color=fce4ec&border_radius=18&langs_count=8&card_width=320" height="175" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Hxni786&theme=rose-pine&hide_border=true&background=2d1b2e&ring=F48FB1&fire=CE93D8&currStreakLabel=F48FB1&sideLabels=FCE4EC&dates=B39DDB&border_radius=18&card_width=700" />
+
+<br/><br/>
+
+<!-- 💖 TROPHY CASE -->
+<img src="https://github-profile-trophy.vercel.app/?username=Hxni786&theme=flat&no-frame=true&row=1&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               🌸 CONTRIBUTION GRAPH 🌸                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 🌷 Let’s Connect
+### 📈 &nbsp; My Coding Journey
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-ff77b7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b1b2a" />
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=2d1b2e&color=f48fb1&line=ce93d8&point=fce4ec&area=true&area_color=f48fb150&hide_border=true&radius=12&custom_title=%F0%9F%8C%B8%20Rukhsar%27s%20Coding%20Journey%20%E2%80%94%20Sprinkling%20Magic%20Daily%20%F0%9F%8C%B8" width="100%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--             💕 SNAKE ANIMATION 💕                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🐍 &nbsp; Watch My Contributions Bloom
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  💭 DEV QUOTE 💭                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 💌 &nbsp; Today's Sweet Wisdom
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  🌷 CONNECT 🌷                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 💖 &nbsp; Let's Create Magic Together
+
+<br/>
+
+<a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-f48fb1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ad1457" />
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-ff77b7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2b1b2a" />
+<a href="mailto:msgoat550@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Send%20Sweet%20Mail-ce93d8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6a1b9a" />
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-ff77b7?style=for-the-badge&logo=github&logoColor=white&labelColor=2b1b2a" />
+<a href="https://github.com/Hxni786" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-fce4ec?style=for-the-badge&logo=github&logoColor=ad1457&labelColor=f48fb1" />
+</a>
+&nbsp;
+<a href="https://mypf786.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Garden%20%F0%9F%8C%B8-b39ddb?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6a1b9a" />
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1dc,35:ffc2e0,70:e0c3ff,100:c7d2fe&height=160&section=footer&text=Building%20pretty%20things%20with%20clean%20code.&fontSize=15&fontColor=ffffff&fontAlignY=70&animation=fadeIn&reversal=true" />
+<!-- 💕 QR + FOOTER -->
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center" valign="middle" width="180">
+
+**🌸 Scan to Visit 🌸**
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://mypf786.netlify.app/&color=f48fb1&bgcolor=2d1b2e&margin=8" alt="Portfolio QR Code" width="140" />
+
+</td>
+<td align="center" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=22&duration=4000&pause=1500&color=F48FB1&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=60&lines=Thanks+for+visiting+my+little+world!+%F0%9F%92%95;Let's+connect+and+create+something+magical;Every+great+project+starts+with+a+hello+%E2%9C%A8;%E2%80%94+with+love%2C+Rukhsar+%F0%9F%8C%B8" alt="Footer typing" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- 💖 FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9fa8da,20:b39ddb,40:ce93d8,60:f48fb1,80:f8bbd0,100:fce4ec&height=180&section=footer&text=%22Code%20with%20heart%2C%20ship%20with%20soul%20%F0%9F%92%96%22&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn&reversal=false&stroke=ffffff&strokeWidth=1" />
+
+<sub>🌸 Crafted with love, chai & a sprinkle of pixie dust by <b>Rukhsar Jabeen</b> 🌸</sub>
 
 </div>
 ```
 
-Replace these placeholders and I’ll finalize it perfectly:
-- `YOUR_GITHUB_USERNAME`
-- `YOUR_LINKEDIN`
-- `YOUR_EMAIL`
-- (Optional) your exact role tagline (e.g., “Frontend Developer”, “MERN Stack Developer”, etc.)
+---
+
+## 🎀 What I Personalized for You
+
+| Section | Your Custom Touch |
+|---|---|
+| **Header Banner** | "Rukhsar Jabeen" in gorgeous flowing gradient |
+| **Typing Animation** | "Hi there 🌸 I'm Rukhsar Jabeen" |
+| **About Code Block** | `const rukhsar` with your name |
+| **Tech Toolkit Title** | "Rukhsar's Magical Tech Toolkit" |
+| **Stats Section** | "Rukhsar's GitHub Story 📖" |
+| **Activity Graph** | "Rukhsar's Coding Journey" |
+| **Footer Typing** | Signed "— with love, Rukhsar 🌸" |
+| **Footer Credit** | "Crafted with love by Rukhsar Jabeen" |
+
+---
+
+## 💌 Important — Update These Before Publishing
+
+I kept the original links, but **you should replace them** with yours:
+
+| What to Change | Where |
+|---|---|
+| 🔗 GitHub username `Hxni786` | All stats/graph URLs (search & replace) |
+| 🔗 LinkedIn URL | Connect button |
+| 📧 Email `msgoat550@gmail.com` | Gmail button |
+| 🌐 Portfolio `mypf786.netlify.app` | Portfolio button + QR code |
+
+---
+
+## 💡 Want Even More Personal Touches?
+
+Just tell me and I'll add:
+
+- 🎵 **Spotify "now playing"** widget (perfect for lo-fi vibes)
+- 📚 A **"currently reading"** book section
+- 🏆 Featured **project showcase** cards
+- 🌙 An **Islamic/Urdu greeting** like "Assalamu Alaikum 🌙"
+- 🦋 **Different color palette** (lavender? sage + cream? rose gold?)
+- 🐱 A **cute anime/cat gif** instead of the coding gif
+
+Just say the word, Rukhsar! 💕✨

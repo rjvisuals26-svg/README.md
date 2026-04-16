@@ -31,31 +31,35 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    🌷 ABOUT ME 🌷                         -->
+<!--                    💜 ABOUT ME 💜                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Cat Typing on Laptop" width="340" src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" />
+<img align="right" alt="Cute Anime Cat Coding" width="360" src="https://media1.tenor.com/m/8h3m6vL9zq4AAAAC/cat-typing.gif" />
 
-### 🌹 &nbsp; About This Rose Gold Coder
+### 🌿 &nbsp; About the Girl Behind the Keyboard
 
 ```typescript
-const rukhsar: GoldenDeveloper = {
-  name        : "Rukhsar Jabeen 🌹",
-  title       : "Full Stack Developer 👑",
-  location    : "🌍 Pakistan — coding in golden hour",
-  pronouns    : "she/her ✨",
+const rukhsar: DreamyDeveloper = {
+  name        : "Rukhsar Jabeen 🌸",
+  title       : "Full Stack Developer ✨",
+  location    : "🌍 Pakistan — coding under starlight",
+  pronouns    : "she/her 💜",
   stack       : {
-    frontend  : ["React 🌹", "React Native", "Three.js ✨", "Tailwind"],
+    frontend  : ["React 💖", "React Native", "Three.js ✨", "Tailwind 🌿"],
     backend   : ["Node.js", "Express.js", "REST APIs"],
     database  : ["MySQL 💎"],
     tools     : ["Git", "GitHub", "VSCode", "Postman", "Figma 🎨"],
   },
-  currentMood : "Building luxe digital experiences with grace",
+  currentMood : "Building beautiful things that work beautifully",
   openTo      : ["Freelance ☕", "Full-time 💼", "Collaboration 💫"],
-  philosophy  : "Elegance is the only beauty that never fades — even in code 🌹",
-  funFact     : "My setup has fairy lights, a velvet mousepad & a cat 🐱💫",
+  philosophy  : "Code should be elegant, like poetry in motion 🌷",
+  funFact     : "I name my variables like fairytale characters 🧚",
 };
+```
+
+<br clear="right"/>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  💎 TECH ARSENAL 💎                       -->
@@ -289,13 +293,21 @@ const rukhsar: GoldenDeveloper = {
 
 ---
 
-## 🐱 Your Chosen GIF
+## 🐱 Alternative Cute GIFs (Choose Your Favorite!)
 
-Perfect choice! The **cat with laptop gif** is adorable and fits the coding aesthetic perfectly. It shows:
-- A cute gray cat 🐱
-- Typing on a laptop 💻
-- With a focused expression 😼
-- Perfect for a developer's profile!
+Replace the current cat gif URL with any of these:
+
+1. **Anime Girl Coding**  
+   `https://media1.tenor.com/m/3i3vQK88aVAAAAAC/anime-girl.gif`
+
+2. **Cat with Laptop**  
+   `https://media1.tenor.com/m/4nXtuQiFpBAAAAAC/cat-typing.gif`
+
+3. **Kawaii Cat Programming**  
+   `https://media1.tenor.com/m/5iY3NnGd0JAAAAAC/cat-computer.gif`
+
+4. **Anime Aesthetic**  
+   `https://media1.tenor.com/m/x8vxLzDmhWEAAAAC/anime-aesthetic.gif`
 
 ---
 

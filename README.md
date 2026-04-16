@@ -33,7 +33,6 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    💜 ABOUT ME 💜                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
 <img align="right" alt="Cute Cat Coding" width="360" src="https://user-images.githubusercontent.com/74038190/213760677-eed471c2-7d8e-4cca-aabc-d72bb220c7e2.gif" />
 ### 🌿 &nbsp; About the Girl Behind the Keyboard
 

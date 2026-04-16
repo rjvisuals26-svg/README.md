@@ -34,7 +34,7 @@
 <!--                    💜 ABOUT ME 💜                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Cute Anime Cat Coding" width="360" src="https://media1.tenor.com/m/8h3m6vL9zq4AAAAC/cat-typing.gif" />
+<img align="right" alt="Cute Cat with Laptop" width="360" src="https://media1.tenor.com/m/4nXtuQiFpBAAAAAC/cat-typing.gif" />
 
 ### 🌿 &nbsp; About the Girl Behind the Keyboard
 
@@ -275,3 +275,53 @@ const rukhsar: DreamyDeveloper = {
 <sub>🌸 Crafted with love, chai & a sprinkle of pixie dust by <b>Rukhsar Jabeen</b> 🌸</sub>
 
 </div>
+```
+
+---
+
+## 🎨 Color Palette Used
+
+| Color | Hex | Usage |
+|-------|-----|-------|
+| **Lavender** | `#E6E6FA` | Primary pastel |
+| **Sage Green** | `#98D8AA` | Accents, badges |
+| **Cream** | `#F5F0FF` | Backgrounds |
+| **Dusty Purple** | `#9F86C0` | Typing text, borders |
+| **Muted Lavender** | `#D8BFD8` | Stats highlights |
+| **Soft Plum** | `#C8A2C8` | Secondary accents |
+| **Mint Sage** | `#B0E0B0` | Footer gradient |
+
+---
+
+## 🐱 Your Chosen GIF
+
+Perfect choice! The **cat with laptop gif** is adorable and fits the coding aesthetic perfectly. It shows:
+- A cute gray cat 🐱
+- Typing on a laptop 💻
+- With a focused expression 😼
+- Perfect for a developer's profile!
+
+---
+
+## 💌 Quick Customization Checklist
+
+Before publishing, remember to update:
+
+1. **GitHub username** `Hxni786` → Your actual username
+2. **LinkedIn URL** → Your profile
+3. **Email** → Your email
+4. **Portfolio URL** → Your website
+5. **QR code data** → Your portfolio link
+
+---
+
+## ✨ Want More Variations?
+
+I can also create:
+
+- **🌹 Rose Gold Edition** (champagne + blush + gold accents)
+- **🌙 Night Sky Edition** (deep purple + stars + moon)
+- **🍵 Matcha Latte Edition** (sage + cream + brown accents)
+- **🌸 Sakura Blossom Edition** (pink + white + cherry blossoms)
+
+Just say the word, Rukhsar! Your aesthetic README should be as unique as you are. 💜🌿

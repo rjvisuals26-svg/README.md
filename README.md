@@ -34,8 +34,7 @@
 <!--                    💜 ABOUT ME 💜                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Cute Anime Cat Coding" width="360" src="https://media1.tenor.com/m/8h3m6vL9zq4AAAAC/cat-typing.gif" />
-
+<img align="right" alt="Cute Cat Coding" width="360" src="https://media.giphy.com/media/heIX5HfWgEYpW/giphy.gif" />
 ### 🌿 &nbsp; About the Girl Behind the Keyboard
 
 ```typescript

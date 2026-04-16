@@ -25,14 +25,10 @@
 
 <br/>
 
-<!-- 🌸 FLORAL DIVIDER -->
-<img align="right" alt="Cat with Laptop" width="360" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
-</div>
-
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    💜 ABOUT ME 💜                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img align="right" alt="Cat with Laptop" width="360" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+<img align="right" alt="Kawaii Cat" width="360" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" />
 ### 🌿 &nbsp; About the Girl Behind the Keyboard
 
 ```typescript

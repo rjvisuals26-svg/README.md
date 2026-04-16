@@ -31,33 +31,31 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    💜 ABOUT ME 💜                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img align="right" alt="Cute Cat Coding" width="360" src="https://user-images.githubusercontent.com/74038190/213760677-eed471c2-7d8e-4cca-aabc-d72bb220c7e2.gif" />
-### 🌿 &nbsp; About the Girl Behind the Keyboard
+<!--                    🌷 ABOUT ME 🌷                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img align="right" alt="Cat Typing on Laptop" width="340" src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" />
+
+### 🌹 &nbsp; About This Rose Gold Coder
 
 ```typescript
-const rukhsar: DreamyDeveloper = {
-  name        : "Rukhsar Jabeen 🌸",
-  title       : "Full Stack Developer ✨",
-  location    : "🌍 Pakistan — coding under starlight",
-  pronouns    : "she/her 💜",
+const rukhsar: GoldenDeveloper = {
+  name        : "Rukhsar Jabeen 🌹",
+  title       : "Full Stack Developer 👑",
+  location    : "🌍 Pakistan — coding in golden hour",
+  pronouns    : "she/her ✨",
   stack       : {
-    frontend  : ["React 💖", "React Native", "Three.js ✨", "Tailwind 🌿"],
+    frontend  : ["React 🌹", "React Native", "Three.js ✨", "Tailwind"],
     backend   : ["Node.js", "Express.js", "REST APIs"],
     database  : ["MySQL 💎"],
     tools     : ["Git", "GitHub", "VSCode", "Postman", "Figma 🎨"],
   },
-  currentMood : "Building beautiful things that work beautifully",
+  currentMood : "Building luxe digital experiences with grace",
   openTo      : ["Freelance ☕", "Full-time 💼", "Collaboration 💫"],
-  philosophy  : "Code should be elegant, like poetry in motion 🌷",
-  funFact     : "I name my variables like fairytale characters 🧚",
+  philosophy  : "Elegance is the only beauty that never fades — even in code 🌹",
+  funFact     : "My setup has fairy lights, a velvet mousepad & a cat 🐱💫",
 };
-```
-
-<br clear="right"/>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  💎 TECH ARSENAL 💎                       -->

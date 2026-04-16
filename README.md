@@ -1,56 +1,95 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--              💖 CINEMATIC HEADER 💖                        -->
+<!--                 GIRLY / SOFT AESTHETIC HEADER              -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,20:f8bbd0,40:f48fb1,60:ce93d8,80:b39ddb,100:9fa8da&height=320&section=header&text=Rukhsar%20Jabeen&fontSize=68&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=%E2%9C%A8%20Full%20Stack%20Developer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Dreamer%20%E2%9C%A8&descAlignY=58&descSize=16&descFontColor=fff0f5&animation=fadeIn&stroke=ffffff&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1dc,35:ffc2e0,70:e0c3ff,100:c7d2fe&height=300&section=header&text=Rukhsar%20Jabeen&fontSize=64&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20Developer%20%E2%80%A2%20Creative%20UI%20Builder&descAlignY=60&descSize=17&descFontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
 
 <br/>
 
-<!-- 💕 PASTEL BADGE ROW -->
-<img src="https://komarev.com/ghpvc/?username=Hxni786&style=for-the-badge&color=f48fb1&label=%E2%9C%A7+PROFILE+VIEWS&labelColor=ad1457" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=ff77b7&label=PROFILE+VIEWS&labelColor=2b1b2a" />
 &nbsp;
-<img src="https://img.shields.io/badge/%E2%9C%A8_STATUS-Open%20to%20Work-f8bbd0?style=for-the-badge&labelColor=ad1457&logo=sparkfun&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-ff77b7?style=for-the-badge&labelColor=2b1b2a&logo=vercel&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%8C%B8_BASED-Pakistan-ce93d8?style=for-the-badge&labelColor=6a1b9a" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%92%96_VIBE-Code%20%26%20Chai-f48fb1?style=for-the-badge&labelColor=ad1457" />
+<img src="https://img.shields.io/badge/BASED-Pakistan-ffffff?style=for-the-badge&labelColor=2b1b2a" />
 
 <br/><br/>
 
-<!-- 💫 DREAMY TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=24&duration=3000&pause=1000&color=F48FB1&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Hi+there+%F0%9F%8C%B8+I'm+Rukhsar+Jabeen;Welcome+to+my+little+corner+of+code+%E2%9C%A8;Building+pretty+%26+powerful+full-stack+apps+%F0%9F%92%95;Crafting+dreamy+3D+experiences+with+Three.js+%F0%9F%92%AB;Code+with+heart%2C+ship+with+soul+%F0%9F%8C%B7;Turning+chai+into+code+since+forever+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=1000&color=FF77B7&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=780&height=52&lines=Hi%2C+I%27m+Rukhsar+Jabeen;I+build+clean%2C+modern+web+apps;React+%7C+Node.js+%7C+REST+APIs;Polished+UI+with+pixel-perfect+detail" alt="Typing SVG" />
 
 <br/>
 
-<!-- 🌸 FLORAL DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+---
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    💕 ABOUT ME 💕                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<img align="right" alt="Coding GIF" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-<img align="right" alt="Coding Aesthetic" width="360" src="https://i.pinimg.com/originals/aa/77/8d/aa778dc683e6cb0a1eebe9d480ce6624.gif" />
-
-### 🌷 &nbsp; About the Girl Behind the Keyboard
+### ✨ About Me
 
 ```typescript
-const rukhsar: DreamyDeveloper = {
-  name        : "Rukhsar Jabeen 🌸",
-  title       : "Full Stack Developer ✨",
-  location    : "🌍 Pakistan — coding under starlight",
-  pronouns    : "she/her 💕",
-  stack       : {
-    frontend  : ["React 💖", "React Native", "Three.js ✨", "Tailwind 🌸"],
-    backend   : ["Node.js", "Express.js", "REST APIs"],
-    database  : ["MySQL 💎"],
-    tools     : ["Git", "GitHub", "VSCode", "Postman", "Figma 🎨"],
-  },
-  currentMood : "Building beautiful things that work beautifully",
-  openTo      : ["Freelance ☕", "Full-time 💼", "Collaboration 💫"],
-  philosophy  : "Code should be elegant, like poetry in motion 🌷",
-  funFact     : "I name my variables like fairytale characters 🧚",
+const rukhsar = {
+  name: "Rukhsar Jabeen",
+  title: "Full Stack Developer",
+  location: "Pakistan — building for the world",
+  currentFocus: "Scalable apps + beautiful UI",
+  openTo: ["Freelance", "Full-time", "Collaboration"],
+  philosophy: "Keep it simple. Keep it solid.",
 };
+```
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+### 🧁 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mysql,git,github,vscode&theme=light&perline=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=FF77B7&icon_color=FF77B7&text_color=5b5560&border_radius=18" height="175" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=FF77B7&text_color=5b5560&border_radius=18&langs_count=8&card_width=320" height="175" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌷 Let’s Connect
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-ff77b7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b1b2a" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-ff77b7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2b1b2a" />
+</a>
+&nbsp;
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-ff77b7?style=for-the-badge&logo=github&logoColor=white&labelColor=2b1b2a" />
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd1dc,35:ffc2e0,70:e0c3ff,100:c7d2fe&height=160&section=footer&text=Building%20pretty%20things%20with%20clean%20code.&fontSize=15&fontColor=ffffff&fontAlignY=70&animation=fadeIn&reversal=true" />
+
+</div>
+```
+
+Replace these placeholders and I’ll finalize it perfectly:
+- `YOUR_GITHUB_USERNAME`
+- `YOUR_LINKEDIN`
+- `YOUR_EMAIL`
+- (Optional) your exact role tagline (e.g., “Frontend Developer”, “MERN Stack Developer”, etc.)

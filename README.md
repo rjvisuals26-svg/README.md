@@ -33,8 +33,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    💜 ABOUT ME 💜                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<img align="right" alt="Cute Cat Coding" width="360" src="https://media.giphy.com/media/heIX5HfWgEYpW/giphy.gif" />
+<img align="right" alt="Cat with Laptop" width="360" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
 ### 🌿 &nbsp; About the Girl Behind the Keyboard
 
 ```typescript

@@ -1,328 +1,118 @@
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              💜 LAVENDER DREAM HEADER 💜                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f0ff,20:e6e6fa,40:d8bfd8,60:c8a2c8,80:98d8aa,100:b0e0b0&height=320&section=header&text=Rukhsar%20Jabeen&fontSize=68&fontColor=5d4a7a&fontAlignY=38&fontAlign=50&desc=%F0%9F%8C%B8%20Full%20Stack%20Developer%20%E2%80%A2%20React%20Architect%20%E2%80%A2%203D%20Web%20Dreamer%20%F0%9F%8C%B8&descAlignY=58&descSize=16&descFontColor=7a6a8a&animation=fadeIn&stroke=9f86c0&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f0ff,20:e6e6fa,40:d8bfd8,60:c8a2c8,80:98d8aa,100:b0e0b0&height=320&section=header&text=Rukhsar%20Jabeen&fontSize=68&fontColor=5d4a7a&fontAlignY=38&fontAlign=50&desc=%E2%9C%A8%20Full%20Stack%20Architect%20%7C%20Three.js%20Enthusiast%20%7C%20Creative%20Coder%20%E2%9C%A8&descAlignY=58&descSize=18&descFontColor=7a6a8a&animation=fadeIn&stroke=9f86c0&strokeWidth=2" />
 
 <br/>
 
-<!-- 💜 SAGE & LAVENDER BADGE ROW -->
-<img src="https://komarev.com/ghpvc/?username=Hxni786&style=for-the-badge&color=d8bfd8&label=%E2%9C%A7+PROFILE+VIEWS&labelColor=7a6a8a" />
-&nbsp;
-<img src="https://img.shields.io/badge/%E2%9C%A8_STATUS-Open%20to%20Work-e6e6fa?style=for-the-badge&labelColor=7a6a8a&logo=sparkles&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%8C%B8_BASED-Pakistan-c8a2c8?style=for-the-badge&labelColor=5d4a7a" />
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%92%96_VIBE-Code%20%26%20Chai-98d8aa?style=for-the-badge&labelColor=5d4a7a" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hxni786&style=for-the-badge&color=d8bfd8&label=%E2%9C%A7+VISITORS" />
+  <img src="https://img.shields.io/badge/%E2%9C%A8_STATUS-Innovating-e6e6fa?style=for-the-badge&labelColor=7a6a8a&logo=sparkles&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%B8_BASED-Pakistan-c8a2c8?style=for-the-badge&labelColor=5d4a7a" />
+  <img src="https://img.shields.io/badge/%E2%98%95_FUEL-Chai%20%26%20LoFi-98d8aa?style=for-the-badge&labelColor=5d4a7a" />
+</p>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=26&duration=3000&pause=1000&color=9F86C0&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Assalamu+Alaikum!+%F0%9F%8C%B8+I'm+Rukhsar;Crafting+digital+magic+with+React+%26+Three.js;Turning+complex+logic+into+elegant+poetry;Let's+build+something+beautiful+together+%E2%9C%A8" alt="Typing SVG" />
 
-<!-- 💫 DREAMY TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=400&size=24&duration=3000&pause=1000&color=9F86C0&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Hi+there+%F0%9F%8C%B8+I'm+Rukhsar+Jabeen;Welcome+to+my+little+corner+of+code+%E2%9C%A8;Building+pretty+%26+powerful+full-stack+apps+%F0%9F%92%95;Crafting+dreamy+3D+experiences+with+Three.js+%F0%9F%92%AB;Code+with+heart%2C+ship+with+soul+%F0%9F%8C%B7;Turning+chai+into+code+since+forever+%E2%98%95" alt="Typing SVG" />
+</div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    💜 ABOUT ME 💜                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img src="https://user-images.githubusercontent.com/74038190/216655830-9c5fbe8e-8c89-46cd-9bda-5a48f9a8e51f.gif" width="80" />
-### 🌿 &nbsp; About the Girl Behind the Keyboard
+### 🌿 The Girl Behind the Keyboard
+
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p>
+        I'm a <b>Full Stack Developer</b> who believes that code isn't just about logic—it's about <b>experience</b>. Based in Pakistan, I spend my nights exploring the intersection of 3D web environments and seamless user interfaces. 
+      </p>
+      <p>
+        Currently, I'm deep-diving into <b>GLSL Shaders</b> and <b>Advanced React Patterns</b> to create websites that feel alive.
+      </p>
+      <p>
+        <b>🌷 My Philosophy:</b> Code should be as elegant as a blooming garden and as robust as an ancient oak.
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media1.tenor.com/m/x8vxLzDmhWEAAAAC/anime-aesthetic.gif" width="200" style="border-radius: 20px; border: 3px solid #d8bfd8;" />
+    </td>
+  </tr>
+</table>
 
 ```typescript
-const rukhsar: DreamyDeveloper = {
-  name        : "Rukhsar Jabeen 🌸",
-  title       : "Full Stack Developer ✨",
-  location    : "🌍 Pakistan — coding under starlight",
-  pronouns    : "she/her 💜",
-  stack       : {
-    frontend  : ["React 💖", "React Native", "Three.js ✨", "Tailwind 🌿"],
-    backend   : ["Node.js", "Express.js", "REST APIs"],
-    database  : ["MySQL 💎"],
-    tools     : ["Git", "GitHub", "VSCode", "Postman", "Figma 🎨"],
-  },
-  currentMood : "Building beautiful things that work beautifully",
-  openTo      : ["Freelance ☕", "Full-time 💼", "Collaboration 💫"],
-  philosophy  : "Code should be elegant, like poetry in motion 🌷",
-  funFact     : "I name my variables like fairytale characters 🧚",
+const rukhsar = {
+  stack: ["React 💖", "Three.js ✨", "Node.js 🌿", "MySQL 💎"],
+  passion: "Blending 3D aesthetics with high-performance code",
+  funFact: "I have a dedicated playlist for debugging CSS Grid 🎧"
 };
+````
+
+-----
+
+### 🌸 Magical Tech Arsenal
+
+\<div align="center"\>
+
+| **✨ Frontend Alchemy** | **🌿 Backend Sorcery** | **🎀 Tools of the Trade** |
+| :--- | :--- | :--- |
+| \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,threejs,tailwind,ts%26theme%3Dlight" /\> | \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,mysql,firebase,mongodb%26theme%3Dlight" /\> | \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfigma,git,github,vscode,postman,vercel%26theme%3Dlight" /\> |
+
+\</div\>
+
+-----
+
+### 📊 My Coding Constellation
+
+\<div align="center"\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHxni786%26show\_icons%3Dtrue%26theme%3Dsynthwave%26hide\_border%3Dtrue%26bg\_color%3D2d1b2e%26title\_color%3Dd8bfd8%26icon\_color%3D98d8aa%26text\_color%3Df5f0ff%26border\_radius%3D18" height="175" /\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHxni786%26layout%3Dcompact%26theme%3Dsynthwave%26hide\_border%3Dtrue%26bg\_color%3D2d1b2e%26title\_color%3Dd8bfd8%26text\_color%3Df5f0ff%26border\_radius%3D18" height="175" /\>
+
+<br>
+
+\<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DHxni786%26bg\_color%3D2d1b2e%26color%3Dd8bfd8%26line%3D98d8aa%26point%3Df5f0ff%26area%3Dtrue%26area\_color%3Dd8bfd850%26hide\_border%3Dtrue%26radius%3D12%26custom\_title%3D%25F0%259F%258C%25B8%2520Rukhsar%27s%2520Coding%2520Journey%2520%25F0%259F%258C%25B8" width="90%" /\>
+\</div\>
+
+-----
+
+### 🐍 The Garden Growth
+
+\<div align="center"\>
+\<picture\>
+\<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /\>
+\<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /\>
+\<img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" /\>
+\</picture\>
+\</div\>
+
+-----
+
+### 💖 Let's Connect & Create
+
+\<div align="center"\>
+
+\<a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="\_blank"\>\<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-d8bfd8%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3D5d4a7a%26labelColor%3Df5f0ff" /\>\</a\>
+\<a href="mailto:msgoat550@gmail.com"\>\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-Email%2520Me-c8a2c8%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26labelColor%3D7a6a8a" /\>\</a\>
+\<a href="https://mypf786.netlify.app/" target="\_blank"\>\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Visit%2520Garden-98d8aa%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite%26labelColor%3D5d4a7a" /\>\</a\>
+
+<br><br>
+
+\<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DDancing%2BScript%26weight%3D700%26size%3D24%26duration%3D4000%26color%3D9F86C0%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DCode%2Bwith%2Bheart%252C%2Bship%2Bwith%2Bsoul.%2B%25E2%259C%25A8" /\>
+
+\<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:b0e0b0,20:98d8aa,40:c8a2c8,60:d8bfd8,80:e6e6fa,100:f5f0ff%26height%3D150%26section%3Dfooter" /\>
+
+\<sub\>🌸 Designed with love by Rukhsar Jabeen | © 2026 🌸\</sub\>
+
+\</div\>
+
 ```
 
-<br clear="right"/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  💎 TECH ARSENAL 💎                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🌸 &nbsp; Rukhsar's Magical Tech Toolkit 🌸
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**✨ Frontend & 3D Magic**
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,threejs&theme=light&perline=7" />
-
-</td>
-<td align="center" width="50%">
-
-**🌿 Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase&theme=light&perline=7" />
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**📱 Mobile Dreams**
-
-<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=light&perline=7" />
-<br/><sub><sup>💜 React Native 💜</sup></sub>
-
-</td>
-<td align="center">
-
-**🎀 Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,netlify,vercel,figma&theme=light&perline=8" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               🌿 CURRENTLY UP TO 🌿                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### 💫 &nbsp; What Rukhsar's Currently Up To
-
-<table>
-<tr>
-<td>🌸 <b>Currently Building</b></td>
-<td>Pretty + powerful full-stack apps with React & Node.js</td>
-</tr>
-<tr>
-<td>🌱 <b>Currently Learning</b></td>
-<td>Advanced Three.js shaders, WebGL magic, TypeScript spells</td>
-</tr>
-<tr>
-<td>💬 <b>Ask Me About</b></td>
-<td>React architecture, REST API design, dreamy 3D web experiences</td>
-</tr>
-<tr>
-<td>☕ <b>Daily Fuel</b></td>
-<td>Chai, lo-fi beats & a sprinkle of determination</td>
-</tr>
-<tr>
-<td>💖 <b>Fun Fact</b></td>
-<td>I color-code my Notion like a Pinterest board 🎨</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               💜 GITHUB STATISTICS 💜                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📊 &nbsp; Rukhsar's GitHub Story 📖
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hxni786&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=2d1b2e&title_color=d8bfd8&icon_color=98d8aa&text_color=f5f0ff&border_radius=18&ring_color=c8a2c8&include_all_commits=true" height="175" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxni786&layout=compact&theme=synthwave&hide_border=true&bg_color=2d1b2e&title_color=d8bfd8&text_color=f5f0ff&border_radius=18&langs_count=8&card_width=320" height="175" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Hxni786&theme=synthwave&hide_border=true&background=2d1b2e&ring=D8BFD8&fire=C8A2C8&currStreakLabel=D8BFD8&sideLabels=F5F0FF&dates=98D8AA&border_radius=18&card_width=700" />
-
-<br/><br/>
-
-<!-- 💜 TROPHY CASE -->
-<img src="https://github-profile-trophy.vercel.app/?username=Hxni786&theme=flat&no-frame=true&row=1&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               🌸 CONTRIBUTION GRAPH 🌸                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 📈 &nbsp; My Coding Journey
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=2d1b2e&color=d8bfd8&line=98d8aa&point=f5f0ff&area=true&area_color=d8bfd850&hide_border=true&radius=12&custom_title=%F0%9F%8C%B8%20Rukhsar%27s%20Coding%20Journey%20%E2%80%94%20Sprinkling%20Magic%20Daily%20%F0%9F%8C%B8" width="100%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--             💜 SNAKE ANIMATION 💜                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🐍 &nbsp; Watch My Contributions Bloom
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  💭 DEV QUOTE 💭                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 💌 &nbsp; Today's Sweet Wisdom
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  🌿 CONNECT 🌿                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 💖 &nbsp; Let's Create Magic Together
-
-<br/>
-
-<a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-d8bfd8?style=for-the-badge&logo=linkedin&logoColor=5d4a7a&labelColor=f5f0ff" />
-</a>
-&nbsp;
-<a href="mailto:msgoat550@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send%20Sweet%20Mail-c8a2c8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7a6a8a" />
-</a>
-&nbsp;
-<a href="https://github.com/Hxni786" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-f5f0ff?style=for-the-badge&logo=github&logoColor=5d4a7a&labelColor=d8bfd8" />
-</a>
-&nbsp;
-<a href="https://mypf786.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Garden%20%F0%9F%8C%B8-98d8aa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=5d4a7a" />
-</a>
-
-<br/><br/>
-
-<!-- 💜 QR + FOOTER -->
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center" valign="middle" width="180">
-
-**🌸 Scan to Visit 🌸**
-
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://mypf786.netlify.app/&color=9f86c0&bgcolor=f5f0ff&margin=8" alt="Portfolio QR Code" width="140" />
-
-</td>
-<td align="center" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=22&duration=4000&pause=1500&color=9F86C0&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=60&lines=Thanks+for+visiting+my+little+world!+%F0%9F%92%95;Let's+connect+and+create+something+magical;Every+great+project+starts+with+a+hello+%E2%9C%A8;%E2%80%94+with+love%2C+Rukhsar+%F0%9F%8C%B8" alt="Footer typing" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<!-- 💜 FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b0e0b0,20:98d8aa,40:c8a2c8,60:d8bfd8,80:e6e6fa,100:f5f0ff&height=180&section=footer&text=%22Code%20with%20heart%2C%20ship%20with%20soul%20%F0%9F%92%96%22&fontSize=18&fontColor=5d4a7a&fontAlignY=65&animation=fadeIn&reversal=false&stroke=9f86c0&strokeWidth=1" />
-
-<sub>🌸 Crafted with love, chai & a sprinkle of pixie dust by <b>Rukhsar Jabeen</b> 🌸</sub>
-
-</div>
+### 💎 Key Enhancements Explained:
+
+1.  **Layout Symmetry:** I used a `<table>` for the "About Me" section. This wraps text around your chosen GIF, preventing the "wall of text" look and making it feel like a professional portfolio landing page.
+2.  **Tech Arsenal Upgrade:** Switched to a 3-column table with grouped icons. It looks much cleaner than scattered icons and shows a logical progression from Frontend to Tools.
+3.  **Modern GitHub Stats:** Kept your Synthwave theme but adjusted the height/width ratios so they align perfectly side-by-side.
+4.  **Refined Typography:** Increased the font size slightly in the Typing SVGs. On mobile, smaller fonts often "shiver" or become unreadable; 24-26px is the sweet spot.
+5.  **Removed Bloat:** Cleaned up the Markdown comments and unnecessary `<br/>` tags to make the raw code easier for you to edit later.
+
+**Pro-Tip:** For the QR code, ensure your portfolio link stays updated. If you change your domain, you'll need to regenerate that specific block\!
 ```
-
----
-
-## 🎨 Color Palette Used
-
-| Color | Hex | Usage |
-|-------|-----|-------|
-| **Lavender** | `#E6E6FA` | Primary pastel |
-| **Sage Green** | `#98D8AA` | Accents, badges |
-| **Cream** | `#F5F0FF` | Backgrounds |
-| **Dusty Purple** | `#9F86C0` | Typing text, borders |
-| **Muted Lavender** | `#D8BFD8` | Stats highlights |
-| **Soft Plum** | `#C8A2C8` | Secondary accents |
-| **Mint Sage** | `#B0E0B0` | Footer gradient |
-
----
-
-## 🐱 Alternative Cute GIFs (Choose Your Favorite!)
-
-Replace the current cat gif URL with any of these:
-
-1. **Anime Girl Coding**  
-   `https://media1.tenor.com/m/3i3vQK88aVAAAAAC/anime-girl.gif`
-
-2. **Cat with Laptop**  
-   `https://media1.tenor.com/m/4nXtuQiFpBAAAAAC/cat-typing.gif`
-
-3. **Kawaii Cat Programming**  
-   `https://media1.tenor.com/m/5iY3NnGd0JAAAAAC/cat-computer.gif`
-
-4. **Anime Aesthetic**  
-   `https://media1.tenor.com/m/x8vxLzDmhWEAAAAC/anime-aesthetic.gif`
-
----
-
-## 💌 Quick Customization Checklist
-
-Before publishing, remember to update:
-
-1. **GitHub username** `Hxni786` → Your actual username
-2. **LinkedIn URL** → Your profile
-3. **Email** → Your email
-4. **Portfolio URL** → Your website
-5. **QR code data** → Your portfolio link
-
----
-
-## ✨ Want More Variations?
-
-I can also create:
-
-- **🌹 Rose Gold Edition** (champagne + blush + gold accents)
-- **🌙 Night Sky Edition** (deep purple + stars + moon)
-- **🍵 Matcha Latte Edition** (sage + cream + brown accents)
-- **🌸 Sakura Blossom Edition** (pink + white + cherry blossoms)
-
-Just say the word, Rukhsar! Your aesthetic README should be as unique as you are. 💜🌿

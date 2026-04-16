@@ -1,8 +1,4 @@
-# 🌸 Lavender & Sage Dream — Rukhsar's Aesthetic README ✨
 
-Here's your personalized README with a **soft lavender, sage, and cream palette** and a **cute anime cat gif**! Perfectly dreamy and uniquely you. 💜🌿
-
-```markdown
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->

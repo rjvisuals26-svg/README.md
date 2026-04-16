@@ -38,79 +38,69 @@
     </td>
   </tr>
 </table>
+
+```typescript
 const rukhsar = {
   stack: ["React 💖", "Three.js ✨", "Node.js 🌿", "MySQL 💎"],
   passion: "Blending 3D aesthetics with high-performance code",
   funFact: "I have a dedicated playlist for debugging CSS Grid 🎧"
 };
-````
+```
 
------
+---
 
 ### 🌸 Magical Tech Arsenal
 
-\<div align="center"\>
+<div align="center">
 
 | **✨ Frontend Alchemy** | **🌿 Backend Sorcery** | **🎀 Tools of the Trade** |
 | :--- | :--- | :--- |
-| \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,threejs,tailwind,ts%26theme%3Dlight" /\> | \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,mysql,firebase,mongodb%26theme%3Dlight" /\> | \<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dfigma,git,github,vscode,postman,vercel%26theme%3Dlight" /\> |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,ts&theme=light" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase,mongodb&theme=light" /> | <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman,vercel&theme=light" /> |
 
-\</div\>
+</div>
 
------
+---
 
 ### 📊 My Coding Constellation
 
-\<div align="center"\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DHxni786%26show\_icons%3Dtrue%26theme%3Dsynthwave%26hide\_border%3Dtrue%26bg\_color%3D2d1b2e%26title\_color%3Dd8bfd8%26icon\_color%3D98d8aa%26text\_color%3Df5f0ff%26border\_radius%3D18" height="175" /\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DHxni786%26layout%3Dcompact%26theme%3Dsynthwave%26hide\_border%3Dtrue%26bg\_color%3D2d1b2e%26title\_color%3Dd8bfd8%26text\_color%3Df5f0ff%26border\_radius%3D18" height="175" /\>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hxni786&show_icons=true&theme=synthwave&hide_border=true&bg_color=2d1b2e&title_color=d8bfd8&icon_color=98d8aa&text_color=f5f0ff&border_radius=18" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxni786&layout=compact&theme=synthwave&hide_border=true&bg_color=2d1b2e&title_color=d8bfd8&text_color=f5f0ff&border_radius=18" height="175" />
 
 <br>
 
-\<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DHxni786%26bg\_color%3D2d1b2e%26color%3Dd8bfd8%26line%3D98d8aa%26point%3Df5f0ff%26area%3Dtrue%26area\_color%3Dd8bfd850%26hide\_border%3Dtrue%26radius%3D12%26custom\_title%3D%25F0%259F%258C%25B8%2520Rukhsar%27s%2520Coding%2520Journey%2520%25F0%259F%258C%25B8" width="90%" /\>
-\</div\>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=2d1b2e&color=d8bfd8&line=98d8aa&point=f5f0ff&area=true&area_color=d8bfd850&hide_border=true&radius=12&custom_title=%F0%9F%8C%B8%20Rukhsar's%20Coding%20Journey%20%F0%9F%8C%B8" width="90%" />
+</div>
 
------
+---
 
 ### 🐍 The Garden Growth
 
-\<div align="center"\>
-\<picture\>
-\<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /\>
-\<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /\>
-\<img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" /\>
-\</picture\>
-\</div\>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
+</picture>
+</div>
 
------
+---
 
 ### 💖 Let's Connect & Create
 
-\<div align="center"\>
+<div align="center">
 
-\<a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="\_blank"\>\<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-d8bfd8%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3D5d4a7a%26labelColor%3Df5f0ff" /\>\</a\>
-\<a href="mailto:msgoat550@gmail.com"\>\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-Email%2520Me-c8a2c8%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26labelColor%3D7a6a8a" /\>\</a\>
-\<a href="https://mypf786.netlify.app/" target="\_blank"\>\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-Visit%2520Garden-98d8aa%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite%26labelColor%3D5d4a7a" /\>\</a\>
+<a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-d8bfd8?style=for-the-badge&logo=linkedin&logoColor=5d4a7a&labelColor=f5f0ff" /></a>
+<a href="mailto:msgoat550@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-c8a2c8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7a6a8a" /></a>
+<a href="https://mypf786.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Garden-98d8aa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=5d4a7a" /></a>
 
 <br><br>
 
-\<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DDancing%2BScript%26weight%3D700%26size%3D24%26duration%3D4000%26color%3D9F86C0%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DCode%2Bwith%2Bheart%252C%2Bship%2Bwith%2Bsoul.%2B%25E2%259C%25A8" /\>
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=24&duration=4000&color=9F86C0&center=true&vCenter=true&width=500&lines=Code+with+heart%2C+ship+with+soul.+%E2%9C%A8" />
 
-\<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:b0e0b0,20:98d8aa,40:c8a2c8,60:d8bfd8,80:e6e6fa,100:f5f0ff%26height%3D150%26section%3Dfooter" /\>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b0e0b0,20:98d8aa,40:c8a2c8,60:d8bfd8,80:e6e6fa,100:f5f0ff&height=150&section=footer" />
 
-\<sub\>🌸 Designed with love by Rukhsar Jabeen | © 2026 🌸\</sub\>
+<sub>🌸 Designed with love by Rukhsar Jabeen | © 2026 🌸</sub>
 
-\</div\>
-
-```
-
-### 💎 Key Enhancements Explained:
-
-1.  **Layout Symmetry:** I used a `<table>` for the "About Me" section. This wraps text around your chosen GIF, preventing the "wall of text" look and making it feel like a professional portfolio landing page.
-2.  **Tech Arsenal Upgrade:** Switched to a 3-column table with grouped icons. It looks much cleaner than scattered icons and shows a logical progression from Frontend to Tools.
-3.  **Modern GitHub Stats:** Kept your Synthwave theme but adjusted the height/width ratios so they align perfectly side-by-side.
-4.  **Refined Typography:** Increased the font size slightly in the Typing SVGs. On mobile, smaller fonts often "shiver" or become unreadable; 24-26px is the sweet spot.
-5.  **Removed Bloat:** Cleaned up the Markdown comments and unnecessary `<br/>` tags to make the raw code easier for you to edit later.
-
-**Pro-Tip:** For the QR code, ensure your portfolio link stays updated. If you change your domain, you'll need to regenerate that specific block\!
+</div>
 ```

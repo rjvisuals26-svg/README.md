@@ -28,7 +28,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    💜 ABOUT ME 💜                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img align="right" alt="Kawaii Cat" width="360" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" />
+<img src="https://user-images.githubusercontent.com/74038190/216655830-9c5fbe8e-8c89-46cd-9bda-5a48f9a8e51f.gif" width="80" />
 ### 🌿 &nbsp; About the Girl Behind the Keyboard
 
 ```typescript

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,20:34495e,40:3498db,60:2980b9,80:1abc9c,100:16a085&height=280&section=header&text=Rukhsar%20Jabeen&fontSize=70&fontColor=ecf0f1&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Three.js%20Specialist%20%7C%20Web%20Architecture&descAlignY=60&descSize=20&descFontColor=bdc3c7&animation=fadeIn&stroke=3498db&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,20:34495e,40:3498db,60:2980b9,80:1abc9c,100:16a085&height=280&section=header&text=Rukhsar%20Jabeen&fontSize=70&fontColor=ecf0f1&fontAlignY=40&fontAlign=50&desc=Full-Stack%20Developer%20%7C%20Scalable%20Applications%20%7C%20UI%20Design%20Enthusiast&descAlignY=60&descSize=20&descFontColor=bdc3c7&animation=fadeIn&stroke=3498db&strokeWidth=2" />
 
 <br/>
 
@@ -17,15 +17,15 @@
 
 ## About Me
 
-I'm a **Full Stack Developer** with expertise in building scalable web applications and immersive 3D web experiences. Based in **Pakistan**, I specialize in crafting high-performance frontends with **React** and **Three.js** while architecting robust backend systems.
+I'm **Rukhsar Jabeen**, a **Full-Stack Developer** passionate about building scalable applications with aesthetic user interfaces. Based in **Pakistan**, I combine technical expertise with a creative design perspective to deliver exceptional digital experiences.
 
 My focus areas include:
-- **3D Web Development** – Creating interactive visualizations with GLSL shaders and Three.js
-- **Modern Frontend Architecture** – Building responsive, accessible interfaces with React and TypeScript
-- **Full Stack Solutions** – End-to-end development from database design to production deployment
-- **Performance Optimization** – Ensuring seamless user experiences at scale
+- **Full-Stack Development** – Building end-to-end applications using React, Node.js, and MySQL
+- **Scalable Architecture** – Designing systems that grow with your business needs
+- **Aesthetic UI Design** – Creating beautiful, user-centered interfaces that users love
+- **Performance Optimization** – Ensuring fast, responsive applications at scale
 
-**Philosophy:** Code should be clean, maintainable, and delightful to use.
+**Philosophy:** Technology should be both powerful and beautiful. Great code deserves great design.
 
 ---
 
@@ -35,10 +35,11 @@ My focus areas include:
 
 | Category | Technologies |
 |----------|---------------|
-| **Frontend** | React.js, Next.js, Three.js, TypeScript, Tailwind CSS, GLSL |
+| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, Responsive Design |
 | **Backend** | Node.js, Express.js, Firebase, MongoDB, MySQL |
-| **Tools & Platforms** | Git, GitHub, Docker, Postman, Figma, Vercel, Netlify |
-| **Specializations** | 3D Web Graphics, Shader Programming, RESTful APIs, Database Design |
+| **Design & Graphics** | Figma, UI/UX Design, Adobe Creative Suite, Graphic Design |
+| **Tools & Platforms** | Git, GitHub, Docker, Postman, Vercel, Netlify |
+| **Specializations** | RESTful APIs, Database Design, Full-Stack Architecture, Web Design |
 
 </div>
 
@@ -46,10 +47,11 @@ My focus areas include:
 
 ## Professional Highlights
 
-- ✅ **Full Stack Development** – End-to-end web application development
-- ✅ **3D Web Visualization** – Interactive experiences using Three.js and WebGL
-- ✅ **Performance Engineering** – Optimization for speed and scalability
-- ✅ **Collaborative Development** – Experience with version control, agile workflows, and team projects
+- ✅ **Full-Stack Development** – End-to-end web application development from concept to deployment
+- ✅ **Scalable Architecture** – Building applications designed to handle growth and complexity
+- ✅ **UI/UX Excellence** – Combining aesthetic design with intuitive user experiences
+- ✅ **Performance Engineering** – Optimization for speed, responsiveness, and seamless interactions
+- ✅ **Collaborative Development** – Version control, agile workflows, and cross-functional teamwork
 
 ---
 
@@ -71,13 +73,14 @@ My focus areas include:
 
 ## Featured Projects
 
-I work on projects spanning **3D visualization**, **full-stack applications**, and **performance-critical systems**. Browse my repositories to see implementations of:
+I work on projects that blend **technical excellence** with **thoughtful design**. Browse my repositories to see implementations of:
 
-- Advanced React patterns and hooks
-- Three.js interactive experiences
 - Full-stack MERN applications
-- Shader programming and WebGL
-- RESTful API design and documentation
+- Responsive, user-centered interfaces
+- RESTful API design and architecture
+- Database optimization and design patterns
+- Graphic design integration in web applications
+- Performance-optimized React applications
 
 ---
 
@@ -97,41 +100,8 @@ I work on projects spanning **3D visualization**, **full-stack applications**, a
 
 <br><br>
 
-<p><strong>Open to opportunities</strong> in full-stack development, 3D web graphics, and technical architecture roles.</p>
+<p><strong>Open to opportunities</strong> in full-stack development, scalable architecture design, and UI/UX focused roles.</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16a085,20:1abc9c,40:2980b9,60:3498db,80:34495e,100:2c3e50&height=150&section=footer" />
 
 </div>
-
----
-
-## Key Improvements Made:
-
-### ✅ **Structure & Clarity**
-- Removed anime gifs and decorative elements
-- Added clear navigation sections
-- Organized content hierarchically
-
-### ✅ **Professional Language**
-- Replaced casual phrasing with industry-standard terminology
-- Emphasized concrete skills and measurable outcomes
-- Removed overly creative/poetic descriptions
-
-### ✅ **Content Focus**
-- Added "Featured Projects" section encouraging portfolio exploration
-- Included "Professional Highlights" showing core competencies
-- Structured tech stack in a clean table format
-
-### ✅ **Visual Balance**
-- Maintained visual appeal without compromising professionalism
-- Cleaner color palette (professional blues and teals)
-- Better spacing and readability
-
-### ✅ **Call-to-Action**
-- Added "Open to opportunities" statement
-- Clear contact methods with proper badges
-- Navigation links at the top for easy access
-
----
-
-**This version maintains your creative personality while presenting you as a serious, skilled professional to recruiters and potential collaborators.** You can further customize colors, add specific project links, or include certifications as needed!

@@ -86,21 +86,33 @@ I work on projects that blend **technical excellence** with **thoughtful design*
 
 ## Let's Connect
 
+---
+
+## Let's Connect
+
 <div align="center">
 
-<a href="https://www.linkedin.com/in/syed-hassan-dildar-b40649400" target="_blank">
+<p style="font-size: 16px; margin-bottom: 20px;"><strong>I'm always open to discussing new projects, creative ideas, and opportunities to build something meaningful.</strong></p>
+
+<a href="https://www.linkedin.com/in/rukhsar-jabeen" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:msgoat550@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="https://www.instagram.com/rj_v.isuals" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:rjvisuals26@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://mypf786.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Website-3498db?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 <br><br>
 
-<p><strong>Open to opportunities</strong> in full-stack development, scalable architecture design, and UI/UX focused roles.</p>
+<p><strong>Opportunities I'm Interested In:</strong></p>
+<p>Full-Stack Development • Scalable Architecture Design • UI/UX Design • Web Applications • Performance Optimization</p>
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16a085,20:1abc9c,40:2980b9,60:3498db,80:34495e,100:2c3e50&height=150&section=footer" />
 

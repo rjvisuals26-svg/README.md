@@ -59,13 +59,13 @@ My focus areas include:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hxni786&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjvisuals26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxni786&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjvisuals26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hxni786&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rjvisuals26&bg_color=0d1117&color=58a6ff&line=30363d&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 
 </div>
 
